@@ -3,11 +3,17 @@
 
 👤 Student Details
 Name: Sarthak Mene
+
 Registration Number: 25BCE10385
+
 Branch: Computer Science 
+
 Year: 1st Year B.Tech
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
+
 
 
 📌 Project Overview
