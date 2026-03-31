@@ -18,34 +18,6 @@ The repository contains all five tasks covering different modules of digital lit
 
 
 
-📂 Repository Structure
-digital-literacy-project/
-│
-├── README.md
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
-│   └── infographic.png
-│
-├── task-2-portfolio/
-│   └── profile-screenshots/
-│
-├── task-3-platforms/
-│   ├── coding-challenge.png
-│   ├── google-form.png
-│   └── response-sheet.png
-│
-├── task-4-email-etiquette/
-│   ├── email1.txt
-│   ├── email2.txt
-│   └── social-media-checklist.md
-│
-├── task-5-cybercrime/
-│   ├── casestudy.md
-│   └── prevention-checklist.md
-
-
 📊 Task Summary
 🧩 Task 1 – Digital Literacy Infographic
 
